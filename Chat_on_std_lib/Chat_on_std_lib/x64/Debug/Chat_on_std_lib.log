@@ -1,0 +1,7 @@
+﻿  Chat.cpp
+C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\Chat_on_std_lib\Chat_on_std_lib\Chat_on_std_lib\User.h(18,44): warning C4267: аргумент: преобразование из "size_t" в "uint"; возможна потеря данных
+  (компиляция исходного файла "Chat.cpp")
+  
+C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\Chat_on_std_lib\Chat_on_std_lib\Chat_on_std_lib\Chat.cpp(19,47): warning C4267: аргумент: преобразование из "size_t" в "uint"; возможна потеря данных
+C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\Chat_on_std_lib\Chat_on_std_lib\Chat_on_std_lib\Chat.cpp(28,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Chat_on_std_lib.vcxproj -> C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\Chat_on_std_lib\Chat_on_std_lib\x64\Debug\Chat_on_std_lib.exe

@@ -1,4 +1,5 @@
-.vs/
-x64/
-Chat_on_std_lib/x64
+Chat_on_std_lib/.vs/
+Chat_on_std_lib/x64/
+Chat_on_std_lib/Chat_on_std_lib/x64
+
 *.vcxproj
